@@ -1,5 +1,6 @@
 # Paper-Products-Pricing-Model
 This pricing model enables **tissue paper converters** (manufacturers who purchase parent reels and convert them into finished products) to accurately calculate product costs and generate export quotations for international markets.
+https://docs.google.com/spreadsheets/d/1HmTRq3jr9xv4m3NLMx6gq8msM0yMplKO/edit?usp=sharing&ouid=117695434224299199084&rtpof=true&sd=true
 
 **Why it exists:** Export pricing for paper products involves complex calculations across material costs, converting operations, packaging, logistics, and market-specific factors. This tool automates these calculations, reducing quote preparation time from hours to minutes while improving accuracy and consistency.
 
@@ -28,6 +29,8 @@ This pricing model enables **tissue paper converters** (manufacturers who purcha
 ## 📁 Data Source
 
 ### Data Structure Overview
+
+https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Data%20Structure%20Overview.png
 
 The model uses **7 interconnected sheets** organized into three categories:
 
@@ -119,7 +122,8 @@ The model uses **7 interconnected sheets** organized into three categories:
 | **Professional customer communication** | Consistent | Branded quote documents |
 
 ### Core Features
-image
+
+https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20Features.png
 
 ### Business Impact & Insights
 
@@ -163,7 +167,7 @@ image
 
 **Purpose:** Central repository for all cost parameters
 
-image
+[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg1%20Input%20Costs.png)
 
 
 **Key Elements:**
@@ -177,7 +181,7 @@ image
 
 **Purpose:** Database of parent reel specifications and pricing
 
-image
+[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg2%20Input%20Reels.png)
 
 
 **Key Elements:**
@@ -191,7 +195,7 @@ image
 
 **Purpose:** Database of finished product specifications
 
-image
+[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg3%20Input%20Products.png)
 
 
 **Key Elements:**
@@ -201,11 +205,11 @@ image
 
 ---
 
-### Sheet 4: Calc Product
+### Sheet 4: LookUp Value
 
-**Purpose:** Calculate ex-works cost for selected product
+**Purpose:** Pull values for selected product
 
-image
+[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg4%20LookUp%20Value.png)
 
 
 **Key Insights from this sheet:**
@@ -215,11 +219,25 @@ image
 
 ---
 
-### Sheet 5: Calc Export
+### Sheet 5: Calc Product
+
+**Purpose:** Calculate ex-works cost for selected product
+
+[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg5%20Calc%20Product.png)
+
+
+**Key Insights from this sheet:**
+- Material (reel) cost is largest component (~65%)
+- Identifies cost reduction opportunities
+- Instant margin calculations
+
+---
+
+### Sheet 6: Calc Export
 
 **Purpose:** Calculate landed cost for export destinations
 
-image
+[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg6%20Calc%20Export.png)
 
 
 **Key Insights from this sheet:**
@@ -229,11 +247,11 @@ image
 
 ---
 
-### Sheet 6: QUOTE_Summary
+### Sheet 7: Quote Summary
 
 **Purpose:** Generate professional customer quotation
 
-image
+[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg7%20Quote%20Summary.png)
 
 
 **Key Features:**
