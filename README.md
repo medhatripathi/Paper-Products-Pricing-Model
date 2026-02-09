@@ -30,7 +30,7 @@ https://docs.google.com/spreadsheets/d/1HmTRq3jr9xv4m3NLMx6gq8msM0yMplKO/edit?us
 
 ### Data Structure Overview
 
-https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Data%20Structure%20Overview.png
+![Data Structure Overview](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Data%20Structure%20Overview.png)
 
 The model uses **7 interconnected sheets** organized into three categories:
 
@@ -123,7 +123,7 @@ The model uses **7 interconnected sheets** organized into three categories:
 
 ### Core Features
 
-https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20Features.png
+![Core feature](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20Features.png)
 
 ### Business Impact & Insights
 
@@ -167,7 +167,7 @@ https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20F
 
 **Purpose:** Central repository for all cost parameters
 
-[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg1%20Input%20Costs.png)
+![image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg1%20Input%20Costs.png)
 
 
 **Key Elements:**
@@ -181,7 +181,7 @@ https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20F
 
 **Purpose:** Database of parent reel specifications and pricing
 
-[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg2%20Input%20Reels.png)
+![image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg2%20Input%20Reels.png)
 
 
 **Key Elements:**
@@ -195,7 +195,7 @@ https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20F
 
 **Purpose:** Database of finished product specifications
 
-[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg3%20Input%20Products.png)
+![image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg3%20Input%20Products.png)
 
 
 **Key Elements:**
@@ -209,7 +209,7 @@ https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20F
 
 **Purpose:** Pull values for selected product
 
-[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg4%20LookUp%20Value.png)
+![image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg4%20LookUp%20Value.png)
 
 
 **Key Insights from this sheet:**
@@ -223,7 +223,7 @@ https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20F
 
 **Purpose:** Calculate ex-works cost for selected product
 
-[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg5%20Calc%20Product.png)
+![image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg5%20Calc%20Product.png)
 
 
 **Key Insights from this sheet:**
@@ -237,7 +237,7 @@ https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20F
 
 **Purpose:** Calculate landed cost for export destinations
 
-[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg6%20Calc%20Export.png)
+![image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg6%20Calc%20Export.png)
 
 
 **Key Insights from this sheet:**
@@ -251,7 +251,7 @@ https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Core%20F
 
 **Purpose:** Generate professional customer quotation
 
-[image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg7%20Quote%20Summary.png)
+![image](https://github.com/medhatripathi/Paper-Products-Pricing-Model/blob/main/Pg7%20Quote%20Summary.png)
 
 
 **Key Features:**
